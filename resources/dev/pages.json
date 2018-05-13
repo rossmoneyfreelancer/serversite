@@ -1,0 +1,28 @@
+[
+  {
+    "path": "/",
+    "file": "home",
+    "title": "Home"
+  },
+  {
+    "path": "/products",
+    "file": "products",
+    "title": "Products",
+    "data": {
+      "products": [
+        {
+          "id": 1,
+          "type": "shirt",
+          "name": "Tee",
+          "price": 19.99
+        },
+        {
+          "id": 2,
+          "type": "shirt",
+          "name": "Sweater",
+          "price": 29.99
+        }
+      ]
+    }
+  }
+]
